@@ -1,4 +1,5 @@
 # TIPI-2.0
+# Exercícios para fazer (Lógica de programação)
 
 ## Condicional
 ### Colocar exercícios 
