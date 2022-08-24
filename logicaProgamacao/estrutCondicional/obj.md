@@ -1,3 +1,3 @@
-**estrutura condicional**
+**Objetivo**
 
-colocar atividades de 01 até 12
+colocar atividades de 01 até 12.
