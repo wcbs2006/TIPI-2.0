@@ -2,9 +2,10 @@
 
 ## Condicional
 ### Colocar exercícios 
-01-03
-08-12
+> 01-03
+
+> 08-12
 
 ## Sequencial
 ### Colocar exercícios
-01-16
+> 01-16
