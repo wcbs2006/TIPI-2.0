@@ -1,19 +1,19 @@
 ### Exercícios para fazer (Lógica de programação)
 
-#### Condicional
+#### [[Condicional]](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutCondicional)
 
 > 01-07 🆗
 
 > 08-12
 
-#### ✅ Sequencial
+#### ✅ [[Sequencial]](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutSequencial)
 
 > 01-16 🆗
 
 > EXTRAS: 17-23
 
 
-#### De Repetição
+#### [[De Repetição]](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutRepeticao)
 > 01-03 🆗
 
 > 04-06
