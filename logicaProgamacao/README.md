@@ -6,9 +6,10 @@
 
 > 08-12
 
-#### Sequencial ✅✅✅
+#### ✅ Sequencial
 
 > 01-16 🆗
+> EXTRAS: 17-23
 
 
 #### De Repetição
