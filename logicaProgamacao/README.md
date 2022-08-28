@@ -14,9 +14,9 @@
 
 
 #### [De Repetição](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutRepeticao)
-- 01-03 🆗
+- 01-05 🆗
 
-- 04-06
+- 06
 
 - 07-10 🆗
 
