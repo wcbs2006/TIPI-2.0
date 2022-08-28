@@ -1,4 +1,4 @@
-### Exercícios para fazer (Lógica de programação)
+### Exercícios, Lógica de Programação
 
 #### [Condicional](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutCondicional)
 
