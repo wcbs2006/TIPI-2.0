@@ -2,9 +2,9 @@
 
 #### [Condicional](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutCondicional)
 
-- 01-10 🆗
+- 01-11 🆗
 
-- 11-12
+- 12
 
 #### ✅ [Sequencial](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutSequencial)
 
