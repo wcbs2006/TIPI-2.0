@@ -8,16 +8,14 @@ programa
 	 *  Após exibir, mostrar os números que o usuário digitou. Um por linha.
 	 * 
 	 */
+	 inteiro numero[5], i, soma=0
+	 
+	 para(i=0; i<5; i++){
+	 	leia(numero[i])
+	 }
+	 para(i=0; i<5; i++){
+	 	soma = numero[i] + soma
 	}
+	escreva("Resultado: ",soma)
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 199; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
+}
