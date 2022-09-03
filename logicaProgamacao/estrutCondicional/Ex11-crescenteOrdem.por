@@ -8,7 +8,7 @@ programa
 
 		escreva("Olá querido usuário!\nDigite três números para fazer um experimento com eles:\n")
 		leia(a,b,c)
-		escreva("Vamos colocá-los em ordem alfabética:\n")
+		escreva("Vamos colocá-los em ordem crescente:\n")
 
 		se(a>b e a>c){
 			se(b>c){
