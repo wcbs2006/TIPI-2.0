@@ -1,10 +1,10 @@
 ### Exercícios, Lógica de Programação
 
-#### [Condicional](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutCondicional)
+#### ✅ [Condicional](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutCondicional)
 
-- 01-11 🆗
+- 01-12 🆗
 
-- 12
+- EXTRAS: 13-20
 
 #### ✅ [Sequencial](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutSequencial)
 
