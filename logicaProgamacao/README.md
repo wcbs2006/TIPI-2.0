@@ -14,10 +14,17 @@
 
 
 #### [De Repetição](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutRepeticao)
-- 01-05 🆗
-
-- 06
-
-- 07-10 🆗
+- 01-10 🆗
 
 - 11-17
+
+#### [Vetor](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutVetor)
+- 01-11
+
+- EXTRAS: 12, 13
+
+##### Find the Bug
+- Nível 01 🆗
+- Nível 02
+- Nível 03
+- Nível 04
