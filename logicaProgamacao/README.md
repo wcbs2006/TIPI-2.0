@@ -13,10 +13,10 @@
 - EXTRAS: 17-23
 
 
-#### [De Repetição](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutRepeticao)
-- 01-10 🆗
+####  ✅ [De Repetição](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutRepeticao)
+- 01-17 🆗
 
-- 11-17
+- EXTRAS: 18, 19
 
 #### [Vetor](https://github.com/weschristi/TIPI-2.0/tree/main/logicaProgamacao/estrutVetor)
 - 01-11
