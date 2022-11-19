@@ -69,7 +69,12 @@ main{
 }
 
 @media screen and (max-width: 700px){
-    .ad{
-        display: none;
+    main{
+        max-width: 1200px;
+        grid-template-areas: 
+        'video-player video-player  ad'
+        'video-player video-player  up-next'
+        'video-info actions         up-next'
+        'channel subscribe          up-next';
     }
 }
