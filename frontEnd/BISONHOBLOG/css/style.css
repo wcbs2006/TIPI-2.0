@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+font-size:1rem;
+background-color: #e6e6e6;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/* INÍCIO DO HEADER - CABEÇALHO*/
+#area-cabecalho{
+    padding:0,9rem;
+    background-color: #f7b600;
+    text-align: center;
+    
+}
+
+#area-logo, #area-menu{
+    padding: .7rem;
+}
+.logo-branco{
+color:#fff;
+
+}
+/*nav - links das ancoras*/
+#area-menu a{
+    text-decoration: none;
+    border-radius: 0.7rem;
+}
+#area-menu a:link,#area-menu a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+/*nav - efeitos hover dos links DAS ANCORAS*/
+#area-menu a:hover{
+    background-color: #fff;
+    color: #f7b600;
+}
+#area-principal{
+    /*border: 1px solid red;*/
+    max-width: 57.5rem;
+    margin: .5rem auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+#area-Postagens{
+    width: 41.25rem;
+
+}
+/*caixa-lateral - aside*/
+#area-Lateral{
+    width: 15rem;
+    margin-left: 1.2rem;
+
+}
+/*caixa principal- título, imagem, texto e links*/
+.postagem{
+    padding: 1rem;
+    background-color: #fff;
+}
+.postagem-imagem{
+    width: 39rem;
+}
+.postagem-titulo{
+    color: #f7b600;
+}
+.postagem-data{
+    font-size: 0.8rem;
+    display: block;
+    padding-bottom: 0.8rem;
+}
+.postagem p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 0.5rem;
+}
+.postagem{
+    text-decoration: none;
+}
+.postagem a:visited, .postagem a:link{
+    color: #f7b600;
+}
+.postagem a:hover{
+    text-decoration: underline;
+}
+
+.conteudo-lateral{
+    background-color: white;
+    padding: .8rem;
+    margin-bottom: .7rem;
+}
+
+.conteudo-lateral-titulo{
+    color: #565656;
+    background-color: #ccc;
+    padding: .3rem;
+}
+
+.navegacao-lateral{
+    font-size: .8rem;
+    padding: .3rem;
+}
+.conteudo-lateral a{
+    display: block;
+    text-decoration: none;
+    margin: .2rem;
+    font-size: .8rem;
+}
+.conteudo-lateral a:visited, .conteudo-lateral a:link{
+    color: #f7b600;
+}
+
+
+footer{
+    background-color: #ccc;
+    max-width: 57.5rem;
+    margin: auto;
+    text-align: center;
+}
+

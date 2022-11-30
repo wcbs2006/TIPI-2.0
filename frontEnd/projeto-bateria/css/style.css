@@ -1,0 +1,86 @@
+/* RESET DO CSS  - Padrão Global */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /* PIXELS para REM */
+    font-size: 62.5%;
+}
+
+/* DECLARANDO VARIÁVEIS */
+html{
+    --title-color: #fff;
+    --base-color: #333;
+    --base-color-second: #00ff7f;
+}
+
+/* FLEXBOX */
+body{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /*FONTE DA BATERIA*/
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+    /*DECLARANDO VARIÁVEIS*/
+    background-color: var(--base-color);
+}
+
+h1{
+    color: var(--title-color);
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+    /*APLICANDO CSS GRID - Caixa Principal*/
+    
+    .keys{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+    }
+
+/*APLICANDO CSS GRID - Caixa Secundaria*/
+    .key{
+        width: 8rem;
+        height: 8rem;
+        border: .2rem solid var(--title-color);
+        
+    /*APLICANDO Flexbox*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 3rem;
+        font-weight: bold;
+    }
+
+        input{
+            width: 100%;
+            height: 4rem;
+            border: 0.2rem solid var(--title-color);
+            margin-top: 1rem;
+            font-size: 2rem;
+            cursor: auto;
+        }
+
+        /*CAIXA DO BOTAO*/
+        .composer button{
+            width: 100%;
+            height: 4rem;
+            background: none;
+            border: 0.2rem solid var(--title-color);
+            margin-top: 1rem;
+            font-size: 2rem;
+            color: var(--title-color);
+            cursor: pointer;
+        }
+        .composer button:hover{
+            background-color: rgba(0, 0, 0, 0.2);
+        }
+        
+        footer{
+            justify-content: flex-end;
+            font-size: .75rem;
+        }
